@@ -1,0 +1,7 @@
+body {font-family:sans-serif; margin:20px;}
+nav a {margin-right:10px;}
+.error {color:red;}
+.project {margin-bottom:20px; padding:10px; background:#f9f9f9;}
+.project a { color: #0066cc; text-decoration: none; }
+table {border-collapse:collapse;}
+th,td {padding:6px;}
