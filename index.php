@@ -11,7 +11,7 @@ include 'header.php';
 ?>
 
 <div class="hero-section">
-    <h1>College Project Management System</h1>
+    <h1>OET - College Project Management System</h1>
     <p class="lead">A comprehensive platform for managing student projects and academic submissions</p>
 </div>
 
